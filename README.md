@@ -2,4 +2,4 @@
 
 This is my readme file
 
-A conflict will be created there
+A conflict will be created there!
